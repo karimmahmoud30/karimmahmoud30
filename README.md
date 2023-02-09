@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimmahmoud30
 - 👀 I’m interested in Embedded Systems / IoT / Mobile applications
-- 🌱 I’m currently learning Flutter / C / Python
+- 🌱 I’m currently learning Flutter / C 
 - 💞️ I’m looking to collaborate on Mobile application projects and other coding projects
 - 📫 How to reach me : karimmahmoud30@gmail.com
 
